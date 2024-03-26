@@ -1,0 +1,10 @@
+ol{
+background-color: aqua;
+border-color: black;
+
+}
+.input{
+    border-style: dashed;
+    padding: 10px;
+    border-color: black;
+}
