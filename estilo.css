@@ -1,11 +1,12 @@
 body{
     background-color:gray
 }
-ol{
-background-color: aqua;
+ul{
+background-color: aquamarine;
 border-color: black;
 border-style:solid;
 padding: 20px;
+border-radius: 30px;
 }
  #p {
     padding: 5px;
@@ -13,6 +14,7 @@ padding: 20px;
     margin: 5;
     border-radius: 4%;
     text-align: center;
+    border-radius: 50px;
 }
 .lista {
     padding: 10px;
@@ -31,4 +33,13 @@ h1{
     text-align: center;
     background-color: aliceblue;
     border-style: solid
+}
+p{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+#h3 {
+    text-align: center;
 }
