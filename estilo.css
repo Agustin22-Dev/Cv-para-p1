@@ -1,6 +1,5 @@
 body{
-    background-color:gray
-    
+    background-color: rgb(37, 24, 12);
 }
 #contendor {
     border-style: solid;
@@ -13,8 +12,10 @@ border-color: black;
 border-style:solid;
 padding: 20px;
 border-radius: 30px;
-width: 650px;
-position: relative;
+margin: auto;
+width: 80vw
+
+
 }
  h4{
     padding: 5px;
@@ -71,21 +72,19 @@ li{
 }
 #titulo {
     color: black;
-    width: 50%;
+    width: 60vw;
     margin: auto;
     background-color: rgba(221, 64, 36, 0.699);
         font-family: "Asap Condensed", sans-serif;
         font-weight: 700;
-        font-size: 20px;
+        font-size: 18px;
         font-style: italic;
     
 }
 #ul2 {
-    bottom: 1050px;
-    left: 720px;
-    width: 575px;
-    padding: 20px;
-   height: 986px;
+    margin: auto;
+    width: auto;
+   height: auto;
 }
 #span_1{
 color: rgb(248, 163, 6);
@@ -99,19 +98,16 @@ color: rgb(248, 163, 6);
 #span_4{
     color: rgb(4, 208, 235);
 }
+
 #imagen {
-    bottom: 1000px;
-    left: 300px;
-}
-#imagen {
-    max-width: 100%;
-    max-height: 100%;
-    height: auto;
-    width: auto;
+width: 70vw;
+height: 60vh;
 }
 #caja_imagen {
-   bottom: 1000px;
-   left: 325px;
+    margin: auto;
+    width: 70vw;
+   height: 80vh
+   
 }
 #Py {
     color: rgb(75, 75, 236);
