@@ -3,14 +3,14 @@ body{
 }
 #background-color {
     padding-top: 20px;
-    background-color: rgb(233, 229, 220);
+    background:linear-gradient(rgb(27, 26, 26), rgb(187, 183, 183));
 }
 #contendor {
     
     margin: 10px;
 }
 ul{
-background-color: rgba(141, 137, 132, 0.623);
+background:linear-gradient(rgb(167, 161, 161), rgb(83, 80, 80));
 border-color: black;
 
 padding: 30px;
@@ -28,6 +28,7 @@ width: 80vw
     text-align: center;
     border-radius: 50px;
     font-size: 23px;
+    background-color: rgba(245, 222, 179, 0.692);
 }
 .lista {
     padding: 10px;
@@ -104,7 +105,7 @@ li{
     margin-top: 20px;
     margin-bottom:  3.5rem;
     margin-left: 9rem;
-    color: rgb(63, 61, 61);
+    color: rgb(219, 209, 209);
     width: 60vw;
         font-family: "Barlow Condensed", sans-serif;
         font-weight: 700;
@@ -117,6 +118,7 @@ li{
         
 }
 #ul2 {
+    background:linear-gradient(rgb(83, 80, 80),rgb(184, 179, 179));
     margin-top: 20px;
     width: 80vw;
    height: auto;
