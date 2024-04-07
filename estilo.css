@@ -1,16 +1,19 @@
 body{
-    background-color: rgb(37, 24, 12);
+    background-color: rgb(19, 17, 17)
+}
+#background-color {
+    padding-top: 20px;
+    background-color: rgb(233, 229, 220);
 }
 #contendor {
-    border-style: solid;
-    border-color: black;
+    
     margin: 10px;
 }
 ul{
-background-color: rgba(252, 132, 88, 0.733);
+background-color: rgba(141, 137, 132, 0.623);
 border-color: black;
-border-style:solid;
-padding: 20px;
+
+padding: 30px;
 border-radius: 30px;
 margin: auto;
 width: 80vw
@@ -41,12 +44,39 @@ box-sizing: border-box;
 color: rgba(24, 23, 12, 0.925);
 
 } 
-h1{
-    text-align: center;
-    background-color: rgb(233, 169, 110);
-    border-style: solid;
-    
+#box_texto {
+    font-size: 3.0rem;
+color: aliceblue;
+text-align: center;
+
 }
+h1 {
+    font-size: 4rem;
+    padding-top: 300px;
+    width: 100vw;
+    color: rgb(232, 235, 238);
+    text-align: center;
+}
+.box_titulo {
+    
+    font-size: 50px;
+    text-align:center;
+    margin-bottom: 250px;
+}
+.box {
+    padding-bottom: 32.5%;
+    padding-right: 100;
+    width: 100%;
+    max-width: 100%;
+    background-image: url(https://w.forfun.com/fetch/36/3676655073eddeb57f9efafe127f821b.jpeg);
+    background-size: cover;
+    background-position: 0px -110px;
+    background-attachment: fixed;
+    background-repeat: repeat;
+    position: relative;
+}
+
+   
 p{
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
@@ -60,30 +90,35 @@ p{
 #h3 {
     text-align: center;
     color: rgba(5, 4, 4, 0.808);
-    background-color: rgba(246, 94, 52, 0.349);
+    background-color: rgba(230, 79, 37, 0.349);
     font-size: 25px;
-    border-style: solid;
+   
     border-radius: 30px;
     margin: 20px;
     padding: 15px;
 }
 li{
-    background-color: rgb(190, 158, 121);
+    background-color: rgb(184, 168, 151);
 }
 #titulo {
-    color: black;
+    margin-top: 20px;
+    margin-bottom:  3.5rem;
+    margin-left: 9rem;
+    color: rgb(63, 61, 61);
     width: 60vw;
-    margin: auto;
-    background-color: rgba(221, 64, 36, 0.699);
-        font-family: "Asap Condensed", sans-serif;
+        font-family: "Barlow Condensed", sans-serif;
         font-weight: 700;
-        font-size: 18px;
+        font-size: 3rem;
         font-style: italic;
-    
+        border-color: black;
+        padding: 20px;
+        border-radius: 30px;
+        width: 80vw
+        
 }
 #ul2 {
-    margin: auto;
-    width: auto;
+    margin-top: 20px;
+    width: 80vw;
    height: auto;
 }
 #span_1{
@@ -104,7 +139,7 @@ width: 70vw;
 height: 60vh;
 }
 #caja_imagen {
-    margin: auto;
+    margin-top: 20px;
     width: 70vw;
    height: 80vh
    
