@@ -138,12 +138,12 @@ color: rgb(248, 163, 6);
 
 #imagen {
 width: 70vw;
-height: 60vh;
+height: 450px;
 }
 #caja_imagen {
     margin-top: 20px;
     width: 70vw;
-   height: 80vh
+   height: 600px
    
 }
 #Py {
